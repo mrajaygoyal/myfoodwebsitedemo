@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#background-color {
+    background-color: red;
+}
+
+.bg-dark {
+
+    background-color: #0a0a09 !important;
+}
+
+.featured-description {
+    color: #7d7c7c;
+    font-size: 22px;
+}
+
+.featured-heading {
+    color: #ff860d;
+    font-family: "raider";
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.card-items-descriptions {
+    color: #d9d5d4;
+    font-size: 20px;
+}
+
+.card-items-heading {
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.logo-icon {
+    height: 60px;
+}
+
+.bg-dark-back {
+    background-color: #0a0a09;
+}
+
+.bg-container {
+    background-color: #ff860d;
+    text-align: center;
+    border-radius: 15px;
+    height: 180px;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "banners";
+    font-size: 35px;
+}
+
+.paragraph {
+    font-family: "merlin";
+    font-size: 27px;
+    font-weight: 500;
+}
+
+.paragraph-touch {
+    font-family: "merlin";
+    font-size: 35px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.dark-bg {
+    background-color: #0a0a09;
+}
+
+.service {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "clea";
+}
+
+.hr-line {
+    background-color: #ff860d;
+}
+
+.paragraphtwo {
+    color: #ff860d;
+    font-size: 20px;
+    font-family: "merlin";
+}
